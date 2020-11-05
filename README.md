@@ -1,8 +1,6 @@
 # HeadlineScraperBot 
 Scrapes headlines from articles to be used in reddit using PRAW
 
-(Currently in development, may not work)
-
 ## Installation
 ```
 pip install praw
